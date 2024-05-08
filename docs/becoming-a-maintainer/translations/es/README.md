@@ -8,58 +8,59 @@
 
 ¡Bienvenido al curso Cómo convertirse en mantenedor con OpenSauced! Este curso está diseñado para brindarle una introducción sobre cómo convertirse en un mantenedor de open sourcey guiarlo a través del proceso de creación de su proyecto de open source, trabajar con contribuyentes y más.
 
-## Course Overview
+## Resumen del Curso
 
-The course is divided into chapters, with each covering a different aspect of being an open source maintainer:
+El curso está dividido en capítulos, cada uno de los cuales cubre un aspecto diferente de ser un mantenedor de open source:
 
-### [Intro: Understanding the Role of an Open Source Maintainer](intro.md)
+### [Introducción: Comprender el Papel de un Mantenedor de Open Source](intro.md)
 
-This chapter introduces the role of maintainers in open source, the benefits and the responsibilities of becoming a maintainer, and the challenges they face.
+Este capítulo presenta el papel de los mantenedores en el open source, los beneficios y las responsabilidades de convertirse en mantenedor y los desafíos que enfrentan.
 
-### [How to Setup Your Open Source Project](how-to-setup-your-project.md)
+### [Cómo Configurar su Proyecto de Open Source](how-to-setup-your-project.md)
 
-This chapter walks you through the crucial elements necessary for every project to succeed during its initial setup.
+Este capítulo lo guía a través de los elementos cruciales necesarios para que cada proyecto tenga éxito durante su configuración inicial.
 
-### [How to Handle Open Issues and Pull Requests](issues-and-pull-requests.md)
+### [Cómo manejar Open Issues y Pull Requests](issues-and-pull-requests.md)
 
-In this chapter, you'll learn how to manage open issues and pull requests in your project, from triaging issues to reviewing pull requests.
+En este capítulo, aprenderá cómo administrar open issues y pull requests en su proyecto, desde clasificar problemas hasta revisar pull requests.
 
-### [How to Communicate and Collaborate Effectively](communication-and-collaboration.md)
+### [Cómo Comunicarse y Colaborar Eficazmente](communication-and-collaboration.md)
 
-This chapter will discuss onboarding new contributors, utilizing different communication channels for your open source project's community, and maintaining healthy communication.
+Este capítulo discutirá la incorporación de nuevos contribuyentes, la utilización de diferentes canales de comunicación para la comunidad de su proyecto de open source y el mantenimiento de una comunicación saludable.
 
-### [How to Maintain Code Quality and Documentation](maintaining-code-quality.md)
+### [Cómo Mantener la Calidad y la Documentación del Código](maintaining-code-quality.md)
 
-This chapter covers ways of maintaining code quality and documentation in your open source project.
+Este capítulo cubre formas de mantener la calidad del código y la documentación en su proyecto de open source.
 
-### [Building and Nurturing a Welcoming and Supportive Community](building-community.md)
+### [Construyendo y Fomentando Una Comunidad Acogedora y Solidaria](building-community.md)
 
-In this chapter, you will learn how to build and nurture a welcoming and supportive community in open source, particularly around your project.
+En este capítulo, aprenderá cómo construir y nutrir una comunidad acogedora y solidaria en open source, particularmente en torno a su proyecto.
 
-### [Maintainer Power Ups](maintainer-powerups.md)
+### [Potenciadores de Mantenedor](maintainer-powerups.md)
 
-This chapter introduces tools on GitHub that you can utilize to help you save some time, make your work lighter, and boost your productivity as a maintainer.
+Este capítulo presenta herramientas en GitHub que puede utilizar para ayudarle a ahorrar tiempo, aligerar su trabajo y aumentar su productividad como mantenedor.
 
-### [Building Your Open Source Dream Team](your-team.md)
+### [Construyendo el Equipo de sus Sueños de Open Source](your-team.md)
 
-In this chapter, you'll learn how to create and assemble your team by examining effective collaboration and offering guidance on identifying, onboarding, and empowering your open source squad.
+En este capítulo, aprenderá cómo crear y reunir su equipo examinando la colaboración efectiva y ofreciendo orientación para identificar, incorporar y potenciar su equipo de open source.
 
-### [The Power of Metrics and Analytics](metrics-and-analytics.md)
+### [El Poder de las Métricas y el Análisiss](metrics-and-analytics.md)
 
-This chapter will help you understand your project's metrics and guide you through understanding, leveraging, and making decisions based on these metrics to create a thriving open source project.
 
-### [Let's Get Practical: Starting Your Project](getting-practical.md)
+Este capítulo lo ayudará a comprender las métricas de su proyecto y lo guiará a través de la comprensión, el aprovechamiento y la toma de decisiones basadas en estas métricas para crear un proyecto de open source próspero.
 
-This chapter contains tutorials based on the previous chapters to help you prepare and launch your first open source project as a maintainer.
+### [Seamos Prácticos: Cómo Comenzar su Proyecto](getting-practical.md)
 
-### Additional Information
+Este capítulo contiene tutoriales basados ​​en los capítulos anteriores para ayudarle a preparar y lanzar su primer proyecto de open source como mantenedor.
 
-As this is the beginning of your open source maintainer journey, we've also provided additional information in these chapters:
+### Información Adicional
 
-- [Glossary](glossary.md): A glossary of common terms and definitions used by open source maintainers.
-- [Additional Resources](additional-resources.md): A list of resources for further learning about open source maintainers.
+Como este es el comienzo de su trayectoria como mantenedor de open source, también proporcionamos información adicional en estos capítulos:
 
-## Getting Started
+- [Glosario](glossary.md): Un glosario de términos y definiciones comunes utilizados por los mantenedores de open source.
+- [Recursos Adicionales](additional-resources.md): Una lista de recursos para obtener más información sobre los mantenedores de open source.
+
+## Para comenzar
 
 If you are taking this course on our GitHub repository, navigate to the [`intro.md` file](intro.md) to start the course. Alternatively, visit the [Becoming a Maintainer with OpenSauced on the website](https://intro.opensauced.pizza/#/becoming-a-maintainer/) and start reading!
 
