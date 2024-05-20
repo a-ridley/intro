@@ -62,33 +62,33 @@ Como este es el comienzo de su trayectoria como mantenedor de open source, tambi
 
 ## Para comenzar
 
-If you are taking this course on our GitHub repository, navigate to the [`intro.md` file](intro.md) to start the course. Alternatively, visit the [Becoming a Maintainer with OpenSauced on the website](https://intro.opensauced.pizza/#/becoming-a-maintainer/) and start reading!
+Para comenzar el curso, simplemente navegue hasta el [archivo introducción](intro.md) en el repositorio. ¡Alternativamente, visite [Convertirse en mantenedor de OpenSauced en el sitio web](https://intro.opensauced.pizza/#/becoming-a-maintainer/) y comience a leer.
 
-?> **Tip:** Each chapter builds on the previous one, so we recommend reading them in order.
+?> **Consejo:** Cada capítulo se basa en el anterior, por lo que recomendamos leerlos en orden.
 
-As you work through the course, we encourage you to experiment with the tools and concepts covered in the chapters.
+A medida que avanza en el curso, le animamos a experimentar con las herramientas y conceptos tratados en los capítulos.
 
-## Building Your Open Source Resume
+## Construyendo su currículum de Open Source
 
-One of the unique features of this course is that it guides you to build your open source resume using OpenSauced. OpenSauced is a platform that helps you track and showcase your open source contributions, making it easier to get noticed by potential employers and collaborators.
+Una de las características únicas de este curso es que lo guía para crear su currículum de open source utilizando OpenSauced. OpenSauced es una plataforma que le ayuda a realizar un seguimiento y mostrar sus contribuciones de open source, lo que facilita que los posibles empleadores y colaboradores se destaquen.
 
-To learn more about using OpenSauced to build your open source project, check out the [Maintainers Guide to OpenSauced](https://docs.opensauced.pizza/maintainers/maintainers-guide-to-open-sauced/).
-
----
-
-We hope you find this course informative and useful! If you have any questions or feedback, please don't hesitate to open an issue or reach out to us in the [OpenSauced community Discord](https://discord.com/invite/U2peSNf23P).
-
-Happy learning and contributing!
+Para obtener más información sobre el uso de OpenSauced para construir su proyecto de open source, consulte la [Guía de mantenimiento de OpenSauced](https://docs.opensauced.pizza/maintainers/maintainers-guide-to-open-sauced/).
 
 ---
 
-## 🤝 Contributing to OpenSauced Becoming a Maintainer Repository
+¡Esperamos que encuentre este curso informativo y útil! Si tiene alguna pregunta o comentario, no dude en abrir un problema o comunicarse con nosotros en [Discord de la comunidad OpenSauced](https://discord.com/invite/U2peSNf23P).
 
-We encourage you to contribute to OpenSauced! All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please check out the [Contributing Guidelines](../CONTRIBUTING.md) for information on how to contribute.
+¡Feliz aprendizaje y contribución!
 
-If you want to translate our Becoming a Maintainer Course with OpenSauced course, check out our [🌐 i18n Guidelines](../i18n-guidelines.md).
+---
 
-## ⚖️ LICENSE
+## 🤝 Contribuyendo a este repositorio
+
+¡Te animamos a contribuir con OpenSauced! Todos los contribuyentes deben cumplir con nuestro [Código de conducta](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Consulte las [Pautas de contribución](../CONTRIBUTING.md) para obtener información sobre cómo contribuir.
+
+Si desea traducir nuestro curso Cómo convertirse en mantenedor con OpenSauced, consulte nuestras [🌐 Directrices i18n](../i18n-guidelines.md).
+
+## ⚖️ LICENCIA
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
