@@ -24,7 +24,7 @@ Este capítulo lo guía a través de los elementos cruciales necesarios para que
 
 En este capítulo, aprenderá cómo administrar open issues y pull requests en su proyecto, desde clasificar problemas hasta revisar pull requests.
 
-### [Cómo Comunicarse y Colaborar Eficazmente](comunicación-y-colaboración.md)
+### [Cómo Comunicarse y Colaborar Eficazmente](comunicacion-y-colaboracion.md)
 
 Este capítulo discutirá la incorporación de nuevos contribuyentes, la utilización de diferentes canales de comunicación para la comunidad de su proyecto de open source y el mantenimiento de una comunicación saludable.
 
@@ -49,7 +49,7 @@ En este capítulo, aprenderá cómo crear y reunir su equipo examinando la colab
 
 Este capítulo lo ayudará a comprender las métricas de su proyecto y lo guiará a través de la comprensión, el aprovechamiento y la toma de decisiones basadas en estas métricas para crear un proyecto de open source próspero.
 
-### [Seamos Prácticos: Cómo Comenzar su Proyecto](ponerse-práctico.md)
+### [Seamos Prácticos: Cómo Comenzar su Proyecto](ponerse-practico.md)
 
 Este capítulo contiene tutoriales basados ​​en los capítulos anteriores para ayudarle a preparar y lanzar su primer proyecto de open source como mantenedor.
 
