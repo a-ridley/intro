@@ -24,7 +24,7 @@ Este capítulo lo guía a través de los elementos cruciales necesarios para que
 
 En este capítulo, aprenderá cómo administrar open issues y pull requests en su proyecto, desde clasificar problemas hasta revisar pull requests.
 
-### [Cómo Comunicarse y Colaborar Eficazmente](communication-and-collaboration.md)
+### [Cómo Comunicarse y Colaborar Eficazmente](comunicación-y-colaboración.md)
 
 Este capítulo discutirá la incorporación de nuevos contribuyentes, la utilización de diferentes canales de comunicación para la comunidad de su proyecto de open source y el mantenimiento de una comunicación saludable.
 
@@ -32,7 +32,7 @@ Este capítulo discutirá la incorporación de nuevos contribuyentes, la utiliza
 
 Este capítulo cubre formas de mantener la calidad del código y la documentación en su proyecto de open source.
 
-### [Construyendo y Fomentando Una Comunidad Acogedora y Solidaria](building-community.md)
+### [Construyendo y Fomentando Una Comunidad Acogedora y Solidaria](construyendo-comunidad.md)
 
 En este capítulo, aprenderá cómo construir y nutrir una comunidad acogedora y solidaria en open source, particularmente en torno a su proyecto.
 
@@ -49,7 +49,7 @@ En este capítulo, aprenderá cómo crear y reunir su equipo examinando la colab
 
 Este capítulo lo ayudará a comprender las métricas de su proyecto y lo guiará a través de la comprensión, el aprovechamiento y la toma de decisiones basadas en estas métricas para crear un proyecto de open source próspero.
 
-### [Seamos Prácticos: Cómo Comenzar su Proyecto](getting-practical.md)
+### [Seamos Prácticos: Cómo Comenzar su Proyecto](ponerse-práctico.md)
 
 Este capítulo contiene tutoriales basados ​​en los capítulos anteriores para ayudarle a preparar y lanzar su primer proyecto de open source como mantenedor.
 
@@ -57,8 +57,8 @@ Este capítulo contiene tutoriales basados ​​en los capítulos anteriores pa
 
 Como este es el comienzo de su trayectoria como mantenedor de open source, también proporcionamos información adicional en estos capítulos:
 
-- [Glosario](glossary.md): Un glosario de términos y definiciones comunes utilizados por los mantenedores de open source.
-- [Recursos Adicionales](additional-resources.md): Una lista de recursos para obtener más información sobre los mantenedores de open source.
+- [Glosario](glosario.md): Un glosario de términos y definiciones comunes utilizados por los mantenedores de open source.
+- [Recursos Adicionales](recursos-adicionales.md): Una lista de recursos para obtener más información sobre los mantenedores de open source.
 
 ## Para comenzar
 
