@@ -1,12 +1,12 @@
 # Recursos Adicionales
 
-En esta página, encontrará recursos adicionales que le ayudarán a aprender más sobre todo lo relacionado con los mantenedores de open source.
+En esta página, encontrará recursos adicionales que le ayudarán a aprender más sobre todo lo relacionado con los mantenedores de Open Source.
 
 ## Guías
 
-- [Guía de Open Source](https://opensource.guide/) de GitHub: Las guías de open source son una colección de recursos para personas, comunidades y empresas que desean aprender cómo ejecutar y contribuir a un proyecto de open source.
+- [Guía de Open Source](https://opensource.guide/) de GitHub: Las guías de Open Source son una colección de recursos para personas, comunidades y empresas que desean aprender cómo ejecutar y contribuir a un proyecto de Open Source.
 - [Plantilla de Jerarquía de Colaboradores](https://github.com/cncf/project-template/blob/main/CONTRIBUTOR_LADDER.md) de cncf: Esta es una plantilla para una escala de colaboradores que describe los diferentes roles de los contribuyentes dentro de un proyecto, junto con las responsabilidades y privilegios que conllevan.
-- [Comunidad de Mantenedores](https://maintainers.github.com/auth/signin) por GitHub: La comunidad de mantenedores es un espacio privado para que los mantenedores se conecten con sus pares, obtengan una vista previa de las funciones de GitHub y ayuden a GitHub a respaldar la comunidad de open source.
+- [Comunidad de Mantenedores](https://maintainers.github.com/auth/signin) por GitHub: La comunidad de mantenedores es un espacio privado para que los mantenedores se conecten con sus pares, obtengan una vista previa de las funciones de GitHub y ayuden a GitHub a respaldar la comunidad de Open Source.
 
 ## Publicaciones de blog
 
